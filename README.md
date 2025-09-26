@@ -1,5 +1,5 @@
-# Tugas-Pertemuan-6
-# Tugas Pertemuan 6 — Penerapan JDialog pada GUI Database
+
+# PBO 6 — Penerapan JDialog pada GUI Database
 
 Repository ini berisi implementasi GUI (Graphical User Interface) menggunakan Java Swing, khususnya penggunaan **JDialog**, untuk interaksi dengan database (CRUD: Create, Read, Update, Delete).
 
